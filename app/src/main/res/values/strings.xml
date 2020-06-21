@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Countries List</string>
+    <string-array name="favoriteCountries">
+        <item>Israel</item>
+        <item>America</item>
+        <item>Amsterdam</item>
+        <item>Philipines</item>
+        <item>Thailand</item>
+        <item>Maldives</item>
+        <item>Japan</item>
+        <item>Italy</item>
+        <item>France</item>
+        <item>Egypt</item>
+    </string-array>
+</resources>
